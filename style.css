@@ -1,0 +1,18 @@
+#icon {
+    height: 62px;
+}
+
+body{
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    background-color: darkgreen;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
