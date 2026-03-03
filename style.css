@@ -57,6 +57,21 @@ footer {
 
 .escalação{ 
     background-color: darkolivegreen;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
    
+}
+
+.jogadores {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: black;
+}
+
+.ft_jogadores {
+    padding: 50px;
 }
